@@ -18,6 +18,6 @@ Replacing `G=rootdatum(:gl,4)` with `G=coxgroup(:A,3)` does not resolve this iss
 ## 25/06/24
 This duplication does not occur if $G=GL_1,GL_2,GL_3,SO_5, G_2$. 
 
-It does occur if $G=GL_4,\ldots,GL_{10},SO6,SO7,\ldots,SO_{12}, F_4, E_6, E_7$.
+It does occur if $G=GL_4,\ldots,GL_{10},SO_6,SO_7,\ldots,SO_{12}, F_4, E_6, E_7$.
 
 I have not checked $E_8$. 
